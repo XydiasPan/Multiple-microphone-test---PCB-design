@@ -35,4 +35,4 @@ PCB design, microphones, analog preamplification, PocketBeagle, Bela, LiPo batte
 ## *This repository does not contain links to the design files. This project can only be inspected at the moment.*
 
 ## Preview
-[PCB top_side](top.jpg)
+[Multiple Microphone Test PCB](top.jpg)
