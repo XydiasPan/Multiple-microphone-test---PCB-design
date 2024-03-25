@@ -26,6 +26,6 @@ To get started with the Multiple Microphone Test PCB, simply clone this reposito
 PCB design, microphones, analog preamplification, PocketBeagle, Bela, LiPo battery
 
 ## Preview
-[Multiple Microphone Test PCB](top.jpg)
+[PCB](top.jpg)
 
 ## *This repository does not contain link to the design files. This project can only be inspected at the moment.*
